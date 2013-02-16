@@ -1,3 +1,2 @@
-commit 3 into master
+commit 4
 
-to test rebase a range of commits
